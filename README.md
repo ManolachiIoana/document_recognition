@@ -22,7 +22,7 @@ The data consists in 400 000 images splitted into training, testing and validati
 - test accuracy (after 10 epochs): 68.75%
 
  ## csv_files
-    - contains train, test and validation csv with random chosen image paths (3200 images per training class and 1600 images per test/validation classes)
+- contains train, test and validation csv with random chosen image paths (3200 images per training class and 1600 images per test/validation classes)
 
 
  ## Project dependencies:
